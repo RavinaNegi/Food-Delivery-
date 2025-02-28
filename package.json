@@ -7,9 +7,10 @@
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest",
-    "homepage": "https://RavinaNegi.github.io/Food-Delivery"
+  
 
   },
+    "homepage": "https://ravinanegi.github.io/Food-Delivery",
   "keywords": [],
   "author": "",
   "license": "ISC",
