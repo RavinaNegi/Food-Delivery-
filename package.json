@@ -6,7 +6,9 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "jest"
+    "test": "jest",
+    "homepage": "https://RavinaNegi.github.io/Food-Delivery"
+
   },
   "keywords": [],
   "author": "",
