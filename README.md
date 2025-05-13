@@ -6,11 +6,11 @@ A sleek and fast **Swiggy-inspired food delivery frontend app** built with **Rea
 
 ## 🚀 Live Demo
 
-👉 [Live Website](https://restaurantmenutype.netlify.app/) *(Replace with actual link)*
+👉 https://restaurantmenutype.netlify.app/
 
 ---
 
-## 📸 Screenshots
+
 
 
 ---
